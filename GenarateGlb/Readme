@@ -1,0 +1,6 @@
+1. Please edit config.ini according to your preference and put it under the same directory as GenerateGLB.py
+2. Please put graphql.py under BlenderInstallationPath/Blender x.xx/x.xx/scripts/modules
+    x.xx is the version of your blender
+3. Add blender to PATH
+4. Enter the directory of GenerateGLB.py and run "blender -b -P GenerateGLB.py"
+5. Enter the SPU id
